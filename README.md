@@ -1,4 +1,4 @@
-## Hi there 👋
+## Full Stack Developer and Trainer (Desktop, Web, and Mobile Development)
 
 <!--
 **zaintahiri/zaintahiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
